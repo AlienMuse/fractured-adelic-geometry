@@ -1,0 +1,63 @@
+{
+  "$defs": {
+    "hash": {
+      "pattern": "^sha256:[0-9a-f]{64}$",
+      "type": "string"
+    }
+  },
+  "$id": "https://bsd.example/schema/certificate-1.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "assumptions": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "checker": {
+      "type": "object"
+    },
+    "claim": {
+      "type": "object"
+    },
+    "content_hash": {
+      "$ref": "#/$defs/hash"
+    },
+    "dependencies": {
+      "items": {
+        "$ref": "#/$defs/hash"
+      },
+      "type": "array"
+    },
+    "evidence": {
+      "type": "array"
+    },
+    "identification": {
+      "type": "object"
+    },
+    "rigour": {
+      "enum": [
+        "proved",
+        "conditional",
+        "heuristic",
+        "numerical"
+      ]
+    },
+    "version": {
+      "const": "1.0.0"
+    }
+  },
+  "required": [
+    "version",
+    "identification",
+    "claim",
+    "evidence",
+    "dependencies",
+    "assumptions",
+    "rigour",
+    "checker",
+    "content_hash"
+  ],
+  "type": "object"
+}

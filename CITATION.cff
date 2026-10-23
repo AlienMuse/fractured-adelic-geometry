@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+type: dataset
+title: "Fractured Adelic Geometry"
+abstract: "A Foundational Framework for the Birch and Swinnerton-Dyer Conjecture. A monograph in four volumes bound as one, a self-contained research subject of the Grothendieckian Programme: a category of Frobenius–Arakelov–Prismatic spaces, the Master Identity as the agreement of two trivialisations of one determinant line, a proved conditional descent to the classical statements, and a register of conjectures and obstructions with an attack programme. The Birch and Swinnerton-Dyer conjecture remains open."
+authors:
+  - family-names: "Liu"
+    given-names: "Vincent"
+    email: "elsevier2012@hotmail.com"
+version: "1.0.0"
+date-released: "2026-10-23"
+doi: "10.5281/zenodo.23585887"
+license: "CC-BY-NC-ND-4.0"
+url: "https://github.com/AlienMuse/fractured-adelic-geometry"
+keywords:
+  - "Birch and Swinnerton-Dyer conjecture"
+  - "elliptic curves"
+  - "L-functions"
+  - "Selmer groups"
+  - "Tate–Shafarevich group"
+  - "prismatic cohomology"
+  - "condensed mathematics"
+  - "F-gauges"
+  - "Weil-étale cohomology"
+  - "determinant of cohomology"
+  - "Euler systems"
+  - "Iwasawa theory"
+  - "shtukas"
+  - "arithmetic theta series"
+  - "regularised determinants"
+  - "equivariant Tamagawa number conjecture"
+  - "certified computation"
+  - "formal verification"
+  - "Grothendieckian Programme"
+  - "recursive mathematical discovery"
+  - "AI for mathematics"
+preferred-citation:
+  type: book
+  title: "Fractured Adelic Geometry — A Foundational Framework for the Birch and Swinnerton-Dyer Conjecture"
+  authors:
+    - family-names: "Liu"
+      given-names: "Vincent"
+  year: 2026
+  edition: "Research Architecture Edition 1"
+  collection-title: "WiseMotif Monograph of Mathematical Intelligence, Series 04"
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23585887"
+  url: "https://doi.org/10.5281/zenodo.23585887"

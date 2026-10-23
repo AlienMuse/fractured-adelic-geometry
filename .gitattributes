@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.pdf binary
+*.png binary
+*.ots binary
+*.tsr binary
+*.tsq binary
+SHA256SUMS -text
+SHA256SUMS.asc -text

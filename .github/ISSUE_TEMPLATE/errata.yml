@@ -1,0 +1,43 @@
+name: Erratum
+description: Report a mistake in the text, a formula, a reference, or the typesetting.
+title: "[Erratum] p. ?: "
+labels: ["erratum"]
+body:
+  - type: dropdown
+    id: file
+    attributes:
+      label: File
+      options:
+        - Complete monograph
+        - Preview
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: PDF page number
+      description: The page number shown by your PDF reader (not the printed folio).
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Section, theorem/definition number, equation, figure, or line.
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction and reason
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Name for the acknowledgements (optional)
+      description: Leave empty if you prefer not to be named.

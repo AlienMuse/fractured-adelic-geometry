@@ -1,0 +1,7 @@
+# The release PDFs are distributed as GitHub release assets, never committed.
+*.pdf
+!preview/*.pdf
+*.partial
+.DS_Store
+Thumbs.db
+desktop.ini

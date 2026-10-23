@@ -1,0 +1,26 @@
+name: Permission request
+description: Request permission for a translation, a commercial use, or research use (public request).
+title: "[Permission] "
+labels: ["permission"]
+body:
+  - type: markdown
+    attributes:
+      value: "Requests that should not be public can be sent by e-mail instead (see NOTICE.md)."
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of use
+      options:
+        - Translation
+        - Commercial distribution or printing
+        - Research use involving machine learning
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Description
+      description: Who you are, what you would like to do, scope, and how the work will be credited.
+    validations:
+      required: true

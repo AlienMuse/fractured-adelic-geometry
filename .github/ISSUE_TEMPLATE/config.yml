@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Zenodo archive (all files, permanent DOI)
+    url: https://doi.org/10.5281/zenodo.23585887
+    about: Download mirror and citation record.
+  - name: Contact the author
+    url: mailto:elsevier2012@hotmail.com
+    about: Permission requests and private correspondence.
