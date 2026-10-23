@@ -228,6 +228,7 @@ BibTeX 与 *Cite this repository* 按钮见[英文 README](README.md#citation) �
   <a href="https://wisemotif.ai">WiseMotif Monograph of Mathematical Intelligence</a> · Series 04 · Mathematics and Artificial Intelligence<br>
   Series 01：<a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a> ·
   Series 02：<a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a> ·
-  Series 03：<a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a><br>
+  Series 03：<a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a> ·
+  Series 05：<a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a><br>
   © 2026 Vincent Liu
 </sub></p>
