@@ -172,6 +172,62 @@ F-gauge、Fargues–Fontaine 实现、Arakelov 边界、绝对分圆结构和一
 [预览版](https://github.com/AlienMuse/fractured-adelic-geometry/releases/download/v1.0.0/Fractured-Adelic-Geometry-v1.0.0-Preview.pdf)包含前置部分——Series Note、Abstract、Preface、
 Statement of Epistemic Status、Leitfaden、符号、目录——以及 Part 0 全文。
 
+## 系列
+
+本书是 WiseMotif Monograph of Mathematical Intelligence 的第四部（Series 04），自成独立体系，是 Grothendieckian Programme 的第二个研究课题。系列的前两部紧密相连。从第三部起，每一部都是围绕一个问题自成体系的著作，在这个问题上把 Programme 的方法——递归式数学发现——完整地走一遍。七部作品依次为：
+
+<table>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/grothendieckian-machine"><img src="https://raw.githubusercontent.com/AlienMuse/grothendieckian-machine/main/assets/covers/complete.jpg" alt="《GAI-MUA: The Grothendieckian Machine》封面" width="80"></a></td>
+    <td valign="top"><b>Series 01 · <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a></b><br>
+      <sub><i>A Mathematical Universe Architecture for Verifiable and Self-Evolving Artificial Intelligence</i></sub><br>
+      Programme 的核心部分：数学世界如何被构造、比较并从一个情境迁移到另一个情境，以及机器如何把它们作为有类型、有版本、可验证的对象来持有。<br>
+      <sub>6 卷 · 14,905 页 · <a href="https://doi.org/10.5281/zenodo.23480696">doi:10.5281/zenodo.23480696</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/topos-native-intelligence"><img src="https://raw.githubusercontent.com/AlienMuse/topos-native-intelligence/main/assets/covers/complete.jpg" alt="《GM-Omega-Infinity: Topos-Native Intelligence》封面" width="80"></a></td>
+    <td valign="top"><b>Series 02 · <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a></b><br>
+      <sub><i>A Sheaf-Theoretic Architecture for Verifiable Machine Intelligence</i></sub><br>
+      元推理内核：一个智能系统若要在这些世界内部推理，其内部必须是什么。<br>
+      <sub>5 卷 · 4,020 页 · <a href="https://doi.org/10.5281/zenodo.23538544">doi:10.5281/zenodo.23538544</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><img src="https://raw.githubusercontent.com/AlienMuse/arithmetic-spectral-descent/main/assets/covers/complete.jpg" alt="《Arithmetic Spectral Descent》封面" width="80"></a></td>
+    <td valign="top"><b>Series 03 · <a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a></b><br>
+      <sub><i>Obstruction Theory, Hodge–Krein Realization, and a Falsifiable Architecture for the Riemann Hypothesis</i></sub><br>
+      研究课题 1：黎曼猜想。<br>
+      <sub>4 卷 · 1,549 页 · <a href="https://doi.org/10.5281/zenodo.23564898">doi:10.5281/zenodo.23564898</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><img src="assets/covers/complete.jpg" alt="本书封面" width="80"></td>
+    <td valign="top"><b>Series 04 · <i>Fractured Adelic Geometry</i></b>（本书）<br>
+      <sub><i>A Foundational Framework for the Birch and Swinnerton-Dyer Conjecture</i></sub><br>
+      研究课题 2：Birch–Swinnerton-Dyer 猜想（BSD 猜想）。<br>
+      <sub>4 卷 · 571 页 · <a href="https://doi.org/10.5281/zenodo.23585887">doi:10.5281/zenodo.23585887</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/the-archimedean-prism"><img src="https://raw.githubusercontent.com/AlienMuse/the-archimedean-prism/main/assets/covers/complete.jpg" alt="《The Archimedean Prism》封面" width="80"></a></td>
+    <td valign="top"><b>Series 05 · <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a></b><br>
+      <sub><i>Tame Period Geometry and the Hodge Conjecture</i></sub><br>
+      研究课题 3：Hodge 猜想。<br>
+      <sub>5 卷 · 1,309 页 · <a href="https://doi.org/10.5281/zenodo.23597954">doi:10.5281/zenodo.23597954</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/strained-prismatic-geometry"><img src="https://raw.githubusercontent.com/AlienMuse/strained-prismatic-geometry/main/assets/covers/complete.jpg" alt="《Strained Prismatic Geometry》封面" width="80"></a></td>
+    <td valign="top"><b>Series 06 · <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a></b><br>
+      <sub><i>Deformation over the Absolute Base and the abc Conjecture</i></sub><br>
+      研究课题 4：abc 猜想。<br>
+      <sub>5 卷 · 1,666 页 · <a href="https://doi.org/10.5281/zenodo.23610034">doi:10.5281/zenodo.23610034</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/the-arithmetic-topos"><img src="https://raw.githubusercontent.com/AlienMuse/the-arithmetic-topos/main/assets/covers/complete.jpg" alt="《The Arithmetic Topos》封面" width="80"></a></td>
+    <td valign="top"><b>Series 07 · <a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a></b><br>
+      <sub><i>Foundations of a Trace-Theoretic Approach to the Langlands Programme</i></sub><br>
+      研究课题 5：Langlands 纲领。<br>
+      <sub>5 卷 · 2,001 页 · <a href="https://doi.org/10.5281/zenodo.23629681">doi:10.5281/zenodo.23629681</a></sub></td>
+  </tr>
+</table>
+
 ## 下载
 
 | 文件 | 页数 | 大小 |
@@ -229,6 +285,8 @@ BibTeX 与 *Cite this repository* 按钮见[英文 README](README.md#citation) �
   Series 01：<a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a> ·
   Series 02：<a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a> ·
   Series 03：<a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a> ·
-  Series 05：<a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a><br>
+  Series 05：<a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
+  Series 06：<a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
+  Series 07：<a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
   © 2026 Vincent Liu
 </sub></p>

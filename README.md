@@ -184,6 +184,62 @@ A sceptical referee should read §41.9, *What the book has actually proved*, fir
 The [preview](https://github.com/AlienMuse/fractured-adelic-geometry/releases/download/v1.0.0/Fractured-Adelic-Geometry-v1.0.0-Preview.pdf) contains the front matter — Series Note,
 Abstract, Preface, the Statement of Epistemic Status, the Leitfaden, notation, the contents — and the whole of Part 0.
 
+## The series
+
+This work is Series 04 of the WiseMotif Monograph of Mathematical Intelligence: a self-contained system and the second research subject of the Grothendieckian Programme. The first two works of the series are bound closely together. From the third work on, each is a self-contained system on one problem, on which the Programme's method of recursive mathematical discovery is carried through in full. The seven works, in series order:
+
+<table>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/grothendieckian-machine"><img src="https://raw.githubusercontent.com/AlienMuse/grothendieckian-machine/main/assets/covers/complete.jpg" alt="Cover of GAI-MUA: The Grothendieckian Machine" width="80"></a></td>
+    <td valign="top"><b>Series 01 · <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a></b><br>
+      <sub><i>A Mathematical Universe Architecture for Verifiable and Self-Evolving Artificial Intelligence</i></sub><br>
+      The central part of the Programme: how mathematical worlds are constructed, compared and carried from one setting to another, and how a machine may hold them as typed, versioned and verifiable objects.<br>
+      <sub>6 volumes · 14,905 pages · <a href="https://doi.org/10.5281/zenodo.23480696">doi:10.5281/zenodo.23480696</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/topos-native-intelligence"><img src="https://raw.githubusercontent.com/AlienMuse/topos-native-intelligence/main/assets/covers/complete.jpg" alt="Cover of GM-Omega-Infinity: Topos-Native Intelligence" width="80"></a></td>
+    <td valign="top"><b>Series 02 · <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a></b><br>
+      <sub><i>A Sheaf-Theoretic Architecture for Verifiable Machine Intelligence</i></sub><br>
+      The meta-reasoning kernel: what an intelligence must be, internally, if it is to reason inside such worlds.<br>
+      <sub>5 volumes · 4,020 pages · <a href="https://doi.org/10.5281/zenodo.23538544">doi:10.5281/zenodo.23538544</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><img src="https://raw.githubusercontent.com/AlienMuse/arithmetic-spectral-descent/main/assets/covers/complete.jpg" alt="Cover of Arithmetic Spectral Descent" width="80"></a></td>
+    <td valign="top"><b>Series 03 · <a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a></b><br>
+      <sub><i>Obstruction Theory, Hodge–Krein Realization, and a Falsifiable Architecture for the Riemann Hypothesis</i></sub><br>
+      Research subject 1: the Riemann Hypothesis.<br>
+      <sub>4 volumes · 1,549 pages · <a href="https://doi.org/10.5281/zenodo.23564898">doi:10.5281/zenodo.23564898</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><img src="assets/covers/complete.jpg" alt="Cover of this work" width="80"></td>
+    <td valign="top"><b>Series 04 · <i>Fractured Adelic Geometry</i></b> — this work<br>
+      <sub><i>A Foundational Framework for the Birch and Swinnerton-Dyer Conjecture</i></sub><br>
+      Research subject 2: the conjecture of Birch and Swinnerton-Dyer.<br>
+      <sub>4 volumes · 571 pages · <a href="https://doi.org/10.5281/zenodo.23585887">doi:10.5281/zenodo.23585887</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/the-archimedean-prism"><img src="https://raw.githubusercontent.com/AlienMuse/the-archimedean-prism/main/assets/covers/complete.jpg" alt="Cover of The Archimedean Prism" width="80"></a></td>
+    <td valign="top"><b>Series 05 · <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a></b><br>
+      <sub><i>Tame Period Geometry and the Hodge Conjecture</i></sub><br>
+      Research subject 3: the Hodge Conjecture.<br>
+      <sub>5 volumes · 1,309 pages · <a href="https://doi.org/10.5281/zenodo.23597954">doi:10.5281/zenodo.23597954</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/strained-prismatic-geometry"><img src="https://raw.githubusercontent.com/AlienMuse/strained-prismatic-geometry/main/assets/covers/complete.jpg" alt="Cover of Strained Prismatic Geometry" width="80"></a></td>
+    <td valign="top"><b>Series 06 · <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a></b><br>
+      <sub><i>Deformation over the Absolute Base and the abc Conjecture</i></sub><br>
+      Research subject 4: the abc conjecture.<br>
+      <sub>5 volumes · 1,666 pages · <a href="https://doi.org/10.5281/zenodo.23610034">doi:10.5281/zenodo.23610034</a></sub></td>
+  </tr>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/the-arithmetic-topos"><img src="https://raw.githubusercontent.com/AlienMuse/the-arithmetic-topos/main/assets/covers/complete.jpg" alt="Cover of The Arithmetic Topos" width="80"></a></td>
+    <td valign="top"><b>Series 07 · <a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a></b><br>
+      <sub><i>Foundations of a Trace-Theoretic Approach to the Langlands Programme</i></sub><br>
+      Research subject 5: the Langlands programme.<br>
+      <sub>5 volumes · 2,001 pages · <a href="https://doi.org/10.5281/zenodo.23629681">doi:10.5281/zenodo.23629681</a></sub></td>
+  </tr>
+</table>
+
 ## Download
 
 | File | Pages | Size |
@@ -261,6 +317,8 @@ acknowledged by name in the next edition (see [ERRATA.md](ERRATA.md)).
   Series 01: <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a> ·
   Series 02: <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a> ·
   Series 03: <a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a> ·
-  Series 05: <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a><br>
+  Series 05: <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
+  Series 06: <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
+  Series 07: <a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
   © 2026 Vincent Liu
 </sub></p>
