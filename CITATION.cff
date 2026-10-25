@@ -6,7 +6,9 @@ abstract: "A Foundational Framework for the Birch and Swinnerton-Dyer Conjecture
 authors:
   - family-names: "Liu"
     given-names: "Vincent"
+    affiliation: "WiseMotif.ai"
     email: "elsevier2012@hotmail.com"
+    orcid: "https://orcid.org/0009-0000-8718-222X"
 version: "1.0.0"
 date-released: "2026-10-23"
 doi: "10.5281/zenodo.23585887"
@@ -40,6 +42,8 @@ preferred-citation:
   authors:
     - family-names: "Liu"
       given-names: "Vincent"
+      affiliation: "WiseMotif.ai"
+      orcid: "https://orcid.org/0009-0000-8718-222X"
   year: 2026
   edition: "Research Architecture Edition 1"
   collection-title: "WiseMotif Monograph of Mathematical Intelligence, Series 04"
