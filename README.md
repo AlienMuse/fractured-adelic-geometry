@@ -186,9 +186,16 @@ Abstract, Preface, the Statement of Epistemic Status, the Leitfaden, notation, t
 
 ## The series
 
-This work is Series 04 of the WiseMotif Monograph of Mathematical Intelligence: a self-contained system and the second research subject of the Grothendieckian Programme. The first two works of the series are bound closely together. From the third work on, each is a self-contained system on one problem, on which the Programme's method of recursive mathematical discovery is carried through in full. The seven works, in series order:
+This work is Series 04 of the WiseMotif Monograph of Mathematical Intelligence: a self-contained system and the second research subject of the Grothendieckian Programme. The first two works of the series are bound closely together. From the third work on, each is a self-contained system on one problem, on which the Programme's method of recursive mathematical discovery is carried through in full. The Programme as a whole is set out in Series 00, its overview, which stands before the seven works and is not one of them. The overview and the seven works, in series order:
 
 <table>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/grothendieckian-programme"><img src="https://raw.githubusercontent.com/AlienMuse/grothendieckian-programme/main/assets/covers/complete.jpg" alt="Cover of The Grothendieckian Programme" width="80"></a></td>
+    <td valign="top"><b>Series 00 · <a href="https://github.com/AlienMuse/grothendieckian-programme"><i>The Grothendieckian Programme</i></a></b><br>
+      <sub><i>Recursive Mathematical Discovery in the Age of Machine Reasoning</i></sub><br>
+      The Programme's overview: it stands before the seven works and is not one of them; it sets out the idea of the Programme, its architecture and what the seven share, and adds no mathematical result to them.<br>
+      <sub>one book · 53 pages · <a href="https://doi.org/10.5281/zenodo.23669107">doi:10.5281/zenodo.23669107</a></sub></td>
+  </tr>
   <tr>
     <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/grothendieckian-machine"><img src="https://raw.githubusercontent.com/AlienMuse/grothendieckian-machine/main/assets/covers/complete.jpg" alt="Cover of GAI-MUA: The Grothendieckian Machine" width="80"></a></td>
     <td valign="top"><b>Series 01 · <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a></b><br>
@@ -314,6 +321,7 @@ acknowledged by name in the next edition (see [ERRATA.md](ERRATA.md)).
 
 <p align="center"><sub>
   <a href="https://wisemotif.ai">WiseMotif Monograph of Mathematical Intelligence</a> · Series 04 · Mathematics and Artificial Intelligence<br>
+  Series 00: <a href="https://github.com/AlienMuse/grothendieckian-programme"><i>The Grothendieckian Programme</i></a> ·
   Series 01: <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a> ·
   Series 02: <a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a> ·
   Series 03: <a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a> ·

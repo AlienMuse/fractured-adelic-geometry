@@ -174,9 +174,16 @@ Statement of Epistemic Status、Leitfaden、符号、目录——以及 Part 0 �
 
 ## 系列
 
-本书是 WiseMotif Monograph of Mathematical Intelligence 的第四部（Series 04），自成独立体系，是 Grothendieckian Programme 的第二个研究课题。系列的前两部紧密相连。从第三部起，每一部都是围绕一个问题自成体系的著作，在这个问题上把 Programme 的方法——递归式数学发现——完整地走一遍。七部作品依次为：
+本书是 WiseMotif Monograph of Mathematical Intelligence 的第四部（Series 04），自成独立体系，是 Grothendieckian Programme 的第二个研究课题。系列的前两部紧密相连。从第三部起，每一部都是围绕一个问题自成体系的著作，在这个问题上把 Programme 的方法——递归式数学发现——完整地走一遍。整个 Programme 由其总纲 Series 00 阐述；总纲位于七部之前，不是七部之一。总纲与七部作品依次为：
 
 <table>
+  <tr>
+    <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/grothendieckian-programme"><img src="https://raw.githubusercontent.com/AlienMuse/grothendieckian-programme/main/assets/covers/complete.jpg" alt="《The Grothendieckian Programme》封面" width="80"></a></td>
+    <td valign="top"><b>Series 00 · <a href="https://github.com/AlienMuse/grothendieckian-programme"><i>The Grothendieckian Programme</i></a></b><br>
+      <sub><i>Recursive Mathematical Discovery in the Age of Machine Reasoning</i></sub><br>
+      Programme 的总纲：位于七部之前，不是七部之一；阐述 Programme 的思想、架构与七部的共同之处，不在七部之外增加任何数学结果。<br>
+      <sub>一本书 · 53 页 · <a href="https://doi.org/10.5281/zenodo.23669107">doi:10.5281/zenodo.23669107</a></sub></td>
+  </tr>
   <tr>
     <td width="96" valign="top" align="center"><a href="https://github.com/AlienMuse/grothendieckian-machine"><img src="https://raw.githubusercontent.com/AlienMuse/grothendieckian-machine/main/assets/covers/complete.jpg" alt="《GAI-MUA: The Grothendieckian Machine》封面" width="80"></a></td>
     <td valign="top"><b>Series 01 · <a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a></b><br>
@@ -282,6 +289,7 @@ BibTeX 与 *Cite this repository* 按钮见[英文 README](README.md#citation) �
 
 <p align="center"><sub>
   <a href="https://wisemotif.ai">WiseMotif Monograph of Mathematical Intelligence</a> · Series 04 · Mathematics and Artificial Intelligence<br>
+  Series 00：<a href="https://github.com/AlienMuse/grothendieckian-programme"><i>The Grothendieckian Programme</i></a> ·
   Series 01：<a href="https://github.com/AlienMuse/grothendieckian-machine"><i>GAI-MUA: The Grothendieckian Machine</i></a> ·
   Series 02：<a href="https://github.com/AlienMuse/topos-native-intelligence"><i>GM-Omega-Infinity: Topos-Native Intelligence</i></a> ·
   Series 03：<a href="https://github.com/AlienMuse/arithmetic-spectral-descent"><i>Arithmetic Spectral Descent</i></a> ·
